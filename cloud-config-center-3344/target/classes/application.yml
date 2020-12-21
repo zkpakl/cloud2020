@@ -12,7 +12,7 @@ spring:
           search-paths:
             - springcloud-config
           # 读取的分支
-          label: master
+          label: main
 eureka:
   client:
     service-url:
