@@ -23,6 +23,14 @@
         <module>cloud-config-client-3355</module>
         <module>cloud-gateway-gateway9527</module>
         <module>cloud-customer-feign-order80</module>
+        <module>cloud-provider-hystrix-payment8001</module>
+        <module>cloud-customer-feign-hystrix-order80</module>
+        <module>cloud-config-client-3366</module>
+        <module>cloud-stream-rabbitmq-provider8801</module>
+        <module>cloudalibaba-provider-payment9001</module>
+        <module>cloudalibaba-provider-payment9002</module>
+        <module>cloudalibaba-provider-payment9003</module>
+        <module>cloudalibaba-customer-nacos-order83</module>
     </modules>
     <packaging>pom</packaging>
 
